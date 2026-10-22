@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", "Cormorant Garamond", Georgia, serif;
+  --font-script: "Dancing Script", "Caveat", cursive;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: #08090d;
+  color: #f5f3f7;
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::selection {
+  background: #a78bfa;
+  color: #08090d;
+}
+
+/* Custom Elegant Scrollbar */
+::-webkit-scrollbar {
+  width: 7px;
+}
+::-webkit-scrollbar-track {
+  background: #08090d;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(167, 139, 250, 0.2);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(167, 139, 250, 0.45);
+}
+
+/* Glassmorphism helpers */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.03);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glass-pill {
+  background: rgba(167, 139, 250, 0.15);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(196, 181, 253, 0.35);
+}
+
+.glass-pill:hover {
+  background: rgba(167, 139, 250, 0.28);
+  border-color: rgba(221, 214, 254, 0.6);
+  box-shadow: 0 0 25px rgba(167, 139, 250, 0.35);
+}
+
+/* Soundbar Equalizer Keyframes for Music Button */
+@keyframes soundbar1 {
+  0%, 100% { height: 4px; }
+  50% { height: 16px; }
+}
+
+@keyframes soundbar2 {
+  0%, 100% { height: 14px; }
+  50% { height: 5px; }
+}
+
+@keyframes soundbar3 {
+  0%, 100% { height: 7px; }
+  50% { height: 15px; }
+}
+
+.animate-soundbar-1 {
+  animation: soundbar1 0.75s ease-in-out infinite;
+}
+
+.animate-soundbar-2 {
+  animation: soundbar2 0.65s ease-in-out infinite 0.15s;
+}
+
+.animate-soundbar-3 {
+  animation: soundbar3 0.85s ease-in-out infinite 0.3s;
+}
+
+/* Floating heart burst animation */
+@keyframes floatUp {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(0.8);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-80px) scale(1.4);
+  }
+}
+
+.animate-float-up {
+  animation: floatUp 1.2s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}

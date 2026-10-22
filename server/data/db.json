@@ -1,0 +1,470 @@
+{
+  "stats": {
+    "views": 2102,
+    "totalHearts": 1242
+  },
+  "memories": [
+    {
+      "id": 1,
+      "icon": "heart",
+      "title": "Memories",
+      "description": "Little moments that matter",
+      "category": "ukt",
+      "likes": 84
+    },
+    {
+      "id": 2,
+      "icon": "users",
+      "title": "Together",
+      "description": "You, me and our stories",
+      "category": "together",
+      "likes": 96
+    },
+    {
+      "id": 3,
+      "icon": "group",
+      "title": "Our People",
+      "description": "The chaos we love",
+      "category": "group",
+      "likes": 78
+    },
+    {
+      "id": 4,
+      "icon": "video",
+      "title": "Relive",
+      "description": "Videos that take us back",
+      "category": "video",
+      "likes": 84
+    }
+  ],
+  "photos": [
+    {
+      "id": "u1",
+      "src": "/photos/hero-1.jpg",
+      "title": "Sunset Horizon",
+      "caption": "Watching the golden sun melt into the horizon",
+      "category": "ukt",
+      "featured": true,
+      "likes": 49
+    },
+    {
+      "id": "u2",
+      "src": "/photos/hero-2.jpg",
+      "title": "Just Being You",
+      "caption": "Unfiltered laughter and candid happiness",
+      "category": "ukt",
+      "featured": true,
+      "likes": 62
+    },
+    {
+      "id": "u3",
+      "src": "/photos/ukt/ukt-1.jpg",
+      "title": "Traditional Charm",
+      "caption": "Grace, elegance, and rich purple shades",
+      "category": "ukt",
+      "featured": true,
+      "likes": 41
+    },
+    {
+      "id": "u4",
+      "src": "/photos/ukt/ukt-2.jpg",
+      "title": "Lake Breeze",
+      "caption": "Peaceful waters and sunlit glow",
+      "category": "ukt",
+      "featured": true,
+      "likes": 53
+    },
+    {
+      "id": "u5",
+      "src": "/photos/ukt/ukt-3.jpg",
+      "title": "Blue Saree Elegance",
+      "caption": "Radiant smiles under city lights",
+      "category": "ukt",
+      "featured": true,
+      "likes": 39
+    },
+    {
+      "id": "u6",
+      "src": "/photos/ukt/ukt-4.jpg",
+      "title": "Festival Sunshine",
+      "caption": "Retro sunglasses and bright daylight",
+      "category": "ukt",
+      "featured": false,
+      "likes": 36
+    },
+    {
+      "id": "u7",
+      "src": "/photos/ukt/ukt-5.jpeg",
+      "title": "Gentle Vibes",
+      "caption": "Soft moments that speak louder than words",
+      "category": "ukt",
+      "featured": false,
+      "likes": 30
+    },
+    {
+      "id": "u8",
+      "src": "/photos/ukt/ukt-6.jpeg",
+      "title": "Warm Laughter",
+      "caption": "When laughter fills the entire room",
+      "category": "ukt",
+      "featured": false,
+      "likes": 34
+    },
+    {
+      "id": "u9",
+      "src": "/photos/ukt/ukt-7.jpeg",
+      "title": "Moonlit Night",
+      "caption": "Under the pale romantic moonlight",
+      "category": "ukt",
+      "featured": true,
+      "likes": 47
+    },
+    {
+      "id": "u10",
+      "src": "/photos/ukt/ukt-9.jpeg",
+      "title": "Heartwarming Giggles",
+      "caption": "An infectious smile that lights up the world",
+      "category": "ukt",
+      "featured": true,
+      "likes": 55
+    },
+    {
+      "id": "u11",
+      "src": "/photos/ukt/ukt-10.jpeg",
+      "title": "Candid Joy",
+      "caption": "Moments caught in between words",
+      "category": "ukt",
+      "featured": false,
+      "likes": 32
+    },
+    {
+      "id": "u12",
+      "src": "/photos/ukt/WhatsApp Image 2026-08-16 at 4.37.55 PM.jpeg",
+      "title": "Forever Cheerful",
+      "caption": "Good vibes and pure sweetness",
+      "category": "ukt",
+      "featured": false,
+      "likes": 38
+    },
+    {
+      "id": "t1",
+      "src": "/photos/together/together-1.jpg",
+      "title": "Side by Side",
+      "caption": "Walking together through every high and low",
+      "category": "together",
+      "featured": true,
+      "likes": 56
+    },
+    {
+      "id": "t2",
+      "src": "/photos/together/together-2.jpg",
+      "title": "Unbreakable Bond",
+      "caption": "Miles apart or side by side, always connected",
+      "category": "together",
+      "featured": true,
+      "likes": 59
+    },
+    {
+      "id": "t3",
+      "src": "/photos/together/together-3.jpg",
+      "title": "Endless Conversations",
+      "caption": "Random discussions that turn into treasured memories",
+      "category": "together",
+      "featured": true,
+      "likes": 44
+    },
+    {
+      "id": "t4",
+      "src": "/photos/together/together-4.jpg",
+      "title": "Best Friend Goals",
+      "caption": "The one who knows every secret",
+      "category": "together",
+      "featured": false,
+      "likes": 37
+    },
+    {
+      "id": "t5",
+      "src": "/photos/together/together-5.jpeg",
+      "title": "Comfort in Silence",
+      "caption": "Where words aren't needed to understand each other",
+      "category": "together",
+      "featured": false,
+      "likes": 35
+    },
+    {
+      "id": "t6",
+      "src": "/photos/together/together-6.jpeg",
+      "title": "Silly Moments",
+      "caption": "Making funny faces and laughing till our stomachs hurt",
+      "category": "together",
+      "featured": false,
+      "likes": 42
+    },
+    {
+      "id": "t7",
+      "src": "/photos/together/together-7.jpeg",
+      "title": "Partners in Crime",
+      "caption": "Every crazy plan started right here",
+      "category": "together",
+      "featured": true,
+      "likes": 51
+    },
+    {
+      "id": "t8",
+      "src": "/photos/together/together-8.jpeg",
+      "title": "Through the Years",
+      "caption": "Growing older but keeping the bond timeless",
+      "category": "together",
+      "featured": true,
+      "likes": 48
+    },
+    {
+      "id": "t9",
+      "src": "/photos/together/together-9.jpeg",
+      "title": "Grateful Heart",
+      "caption": "Blessed to have you by my side",
+      "category": "together",
+      "featured": false,
+      "likes": 39
+    },
+    {
+      "id": "t10",
+      "src": "/photos/together/WhatsApp Image 2026-08-17 at 2.43.33 PM.jpeg",
+      "title": "Pure Happiness",
+      "caption": "Just us being our goofy authentic selves",
+      "category": "together",
+      "featured": false,
+      "likes": 45
+    },
+    {
+      "id": "g1",
+      "src": "/photos/group/group-1.jpg",
+      "title": "The Squad Chaos",
+      "caption": "When the whole gang gathers, pure madness ensues",
+      "category": "group",
+      "featured": true,
+      "likes": 68
+    },
+    {
+      "id": "g2",
+      "src": "/photos/group/group-2.jpg",
+      "title": "Unforgettable Gang",
+      "caption": "Our favorite bunch of crazy beautiful souls",
+      "category": "group",
+      "featured": true,
+      "likes": 64
+    },
+    {
+      "id": "g3",
+      "src": "/photos/group/group-3.jpg",
+      "title": "Festival Vibes",
+      "caption": "Colors, high energy, and unforgettable screams",
+      "category": "group",
+      "featured": true,
+      "likes": 53
+    },
+    {
+      "id": "g4",
+      "src": "/photos/group/group-4.jpg",
+      "title": "Campus Diaries",
+      "caption": "Bunking classes, canteen meals, and endless gossip",
+      "category": "group",
+      "featured": false,
+      "likes": 46
+    },
+    {
+      "id": "g5",
+      "src": "/photos/group/group-6.jpeg",
+      "title": "The Reunion",
+      "caption": "No matter the distance, we pick up right where we left off",
+      "category": "group",
+      "featured": false,
+      "likes": 42
+    },
+    {
+      "id": "g6",
+      "src": "/photos/group/group-7.jpeg",
+      "title": "Night Out",
+      "caption": "City lights and late night stories",
+      "category": "group",
+      "featured": true,
+      "likes": 57
+    },
+    {
+      "id": "g7",
+      "src": "/photos/group/group-8.jpeg",
+      "title": "Foodie Hangout",
+      "caption": "Fighting over fries and splitting the bill",
+      "category": "group",
+      "featured": false,
+      "likes": 39
+    },
+    {
+      "id": "g8",
+      "src": "/photos/group/group-9.jpeg",
+      "title": "Squad Laughs",
+      "caption": "Inside jokes that nobody else would ever understand",
+      "category": "group",
+      "featured": false,
+      "likes": 48
+    },
+    {
+      "id": "g9",
+      "src": "/photos/group/group-10.jpeg",
+      "title": "Celebration Time",
+      "caption": "Birthdays, milestones, and shared victories",
+      "category": "group",
+      "featured": true,
+      "likes": 61
+    },
+    {
+      "id": "g10",
+      "src": "/photos/group/group-11.jpeg",
+      "title": "Golden Hour Gang",
+      "caption": "Catching sunsets and good vibrations",
+      "category": "group",
+      "featured": false,
+      "likes": 43
+    },
+    {
+      "id": "g11",
+      "src": "/photos/group/group-12.jpeg",
+      "title": "Spontaneous Road Trip",
+      "caption": "Playlists on full blast and open windows",
+      "category": "group",
+      "featured": false,
+      "likes": 40
+    },
+    {
+      "id": "g12",
+      "src": "/photos/group/group-13.jpeg",
+      "title": "Family by Choice",
+      "caption": "Not related by blood, but connected by everything else",
+      "category": "group",
+      "featured": true,
+      "likes": 58
+    },
+    {
+      "id": "g13",
+      "src": "/photos/group/group-14.jpeg",
+      "title": "Forever Cheerleaders",
+      "caption": "Always hyping each other up to the moon",
+      "category": "group",
+      "featured": false,
+      "likes": 36
+    },
+    {
+      "id": "g14",
+      "src": "/photos/group/group-15.jpeg",
+      "title": "The Noise Makers",
+      "caption": "Every café owner's nightmare and our favorite table",
+      "category": "group",
+      "featured": false,
+      "likes": 47
+    },
+    {
+      "id": "g15",
+      "src": "/photos/group/group-16.jpeg",
+      "title": "Pure Nostalgia",
+      "caption": "Looking back at where we started",
+      "category": "group",
+      "featured": false,
+      "likes": 45
+    },
+    {
+      "id": "g16",
+      "src": "/photos/group/group-17.jpeg",
+      "title": "The Core Group",
+      "caption": "Through every single season of life",
+      "category": "group",
+      "featured": true,
+      "likes": 63
+    },
+    {
+      "id": "g17",
+      "src": "/photos/group/group-18.jpeg",
+      "title": "Unmatched Energy",
+      "caption": "No filters, no pretenses, just pure energy",
+      "category": "group",
+      "featured": false,
+      "likes": 49
+    },
+    {
+      "id": "g18",
+      "src": "/photos/group/group-19.jpeg",
+      "title": "Endless Smiles",
+      "caption": "Every frame filled with love",
+      "category": "group",
+      "featured": false,
+      "likes": 41
+    },
+    {
+      "id": "g19",
+      "src": "/photos/group/WhatsApp Image 2026-08-16 at 4.53.15 PM.jpeg",
+      "title": "Squad Power",
+      "caption": "Together we can take on anything",
+      "category": "group",
+      "featured": false,
+      "likes": 44
+    },
+    {
+      "id": "g20",
+      "src": "/photos/final/final-photo.jpeg",
+      "title": "Sweet Hangouts",
+      "caption": "Milkshakes, selfies, and everlasting memories",
+      "category": "group",
+      "featured": true,
+      "likes": 59
+    }
+  ],
+  "wishes": [
+    {
+      "id": "w1",
+      "name": "Your Best Friend",
+      "message": "Stay the same crazy, wonderful person you are! May all your dreams come true! ❤️",
+      "emoji": "💖",
+      "hearts": 25,
+      "date": "2026-10-20"
+    },
+    {
+      "id": "w2",
+      "name": "The Squad",
+      "message": "To infinite memories, endless laughter, and more road trips ahead! You're irreplaceable. ✨",
+      "emoji": "🎉",
+      "hearts": 20,
+      "date": "2026-10-21"
+    },
+    {
+      "id": "w3",
+      "name": "A Secret Admirer",
+      "message": "Your smile literally brightens up everyone around you. Keep shining UKT! 🌸",
+      "emoji": "✨",
+      "hearts": 32,
+      "date": "2026-10-22"
+    },
+    {
+      "id": "w_1792667602572",
+      "name": "Friend Forever",
+      "message": "May you always keep that lovely smile!",
+      "emoji": "💖",
+      "hearts": 1,
+      "date": "2026-10-22"
+    }
+  ],
+  "letters": [
+    {
+      "id": "l1",
+      "title": "Dear UKT,",
+      "paragraphs": [
+        "Pata nahi dosti ko words mein perfectly explain karna possible hai ya nahi, but kuch log aise hote hain jo life mein aakar ordinary moments ko bhi special bana dete hain.",
+        "Tumhare saath bitaye hue moments shayad dusron ke liye normal hon, but mere liye unmein ek alag hi feeling hai — random baatein, hasi-mazaak, chhoti-chhoti memories aur woh moments jo bina plan kiye yaadgaar ban gaye.",
+        "Thank you for being one of those people.",
+        "I hope life tumhe bahut saari happiness de, tumhare saare dreams poore ho, aur chahe time kitna bhi change ho, hamari ye chhoti si friendship aur ye memories hamesha special rahein.",
+        "Photos toh bahut hain, par memories unse bhi zyada hain. ❤️"
+      ],
+      "signOff": "Always cheering for you,",
+      "author": "Your friend ♡",
+      "likes": 64
+    }
+  ]
+}
